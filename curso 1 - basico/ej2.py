@@ -45,10 +45,9 @@ p.alimentos=["leche", "galletas"]
 print(p.alimentos)
 
 #Invocar un m�todo de un objeto
-p.verEtapaDeVida()
+p.esAdulto()
 p.edad=2
-p.verEtapaDeVida()
-
+p.esAdulto()
 #Instanciar otro objeto de la misma clase
 g=Gato("Cleo",3)
 

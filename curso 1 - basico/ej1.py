@@ -9,4 +9,7 @@ class Ejemplo:
 un_ejemplo=Ejemplo("un valor", "otro valor")
 
 #imprimir valor de un atributo
-print(un_ejemplo.atributo1)
+print("poo")
+print("poo")
+print("atrib1:",un_ejemplo.atributo1)
+print("atrib2:",un_ejemplo.atributo2)
